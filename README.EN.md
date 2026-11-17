@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Node.js-%3E%3D22.5-339933?logo=node.js&logoColor=fff" alt="Node.js">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
 </p>
-<p align="center"><a href="https://dsh-plugin.org/plugins/yujunzhixue/dsh-purge-pro"><img src="https://dsh-plugin.org/badges/listed.svg" alt="Listed on dsh-plugin.org"></a></p>
 <p align="center"><a href="README.md">中文</a> | <a href="README.EN.md">English</a></p>
 
 > **Both official Web and the official desktop app are supported.** Official `dsh web` uses profile `web`; the official desktop EXE (DeepSeek Harness **0.2.0-rc.2**) uses profile `desktop`. Install and Apply them separately. This release targets dsh 0.2; older builds need the matching older plugin. Community Desktop is not maintained.

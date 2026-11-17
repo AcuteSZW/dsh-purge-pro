@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Node.js-%3E%3D22.5-339933?logo=node.js&logoColor=fff" alt="Node.js">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
 </p>
-<p align="center"><a href="https://dsh-plugin.org/plugins/yujunzhixue/dsh-purge-pro"><img src="https://dsh-plugin.org/badges/listed.svg" alt="Listed on dsh-plugin.org"></a></p>
 <p align="center"><a href="README.md">中文</a> | <a href="README.EN.md">English</a></p>
 
 > **官方 Web 和官方桌面端都支持。** 官方 `dsh web` 使用 profile `web`；官方桌面 EXE（DeepSeek Harness **0.2.0-rc.2**）使用 profile `desktop`。两边分开安装、分开点「应用」。当前版本适配 dsh 0.2；更早版本请使用对应的旧版插件。社区桌面端不维护。

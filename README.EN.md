@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">⚔️ DeepSeek Harness Cybersecurity Red-Team Tool (dsh-purge-pro)</h1>
-<p align="center"><strong>Version 1.0.0</strong></p>
+<p align="center"><strong>Version 1.0.1</strong></p>
 <p align="center"><em>Jailbreak for every model — swap prompts per model. Default prompt for 小码酱. Please star ⭐</em></p>
 
 <p align="center">

@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">⚔️ DeepSeek Harness 网络安全红队工具（dsh-purge-pro）</h1>
-<p align="center"><strong>Version 1.0.0</strong></p>
+<p align="center"><strong>Version 1.0.1</strong></p>
 <p align="center"><em>DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐</em></p>
 
 <p align="center">

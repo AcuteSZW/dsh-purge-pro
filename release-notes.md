@@ -1,8 +1,8 @@
-# 1.0.0
+# 1.0.1
 
 ## 中文
 
-- 版本 **1.0.0**，适配 **DSH 0.2.2-rc.3**，Node.js **>=22.5**。本仓库（`AcuteSZW/dsh-purge-pro`）的首次公开发布，也是 npm 包 `dsh-purge-pro` 的首版。下面先给插件全貌，再列本版内容与已知边界。
+- 版本 **1.0.1**，适配 **DSH 0.2.2-rc.3**，Node.js **>=22.5**。本仓库（`AcuteSZW/dsh-purge-pro`）的首次公开发布，也是 npm 包 `dsh-purge-pro` 的首版。下面先给插件全貌，再列本版内容与已知边界。
 
 ### 一、插件是什么
 
@@ -67,10 +67,11 @@
 - 对不上的补丁显示待应用或跳过，不会乱改文件；未装的可选包显示跳过，不挡应用完成。
 - 与上游 `dsh-purge` 并存安装时，两者各自独立生效；不要对同一份宿主文件同时应用两边的补丁。
 - 补偿事务不构成跨资源原子性，见上「POC 文件与 SQLite 并发一致性」。
+- npm 首发版本为 1.0.1：1.0.0 在 npm 侧被占位版本锁住、未对外放出，安装请用 1.0.1。
 
 ## English
 
-- **1.0.0**, targeting **DSH 0.2.2-rc.3**, Node.js **>=22.5**. First public release of this repository (`AcuteSZW/dsh-purge-pro`) and the first version of the npm package `dsh-purge-pro`. The notes below cover the plugin as a whole, then what this release contains and its known boundaries.
+- **1.0.1**, targeting **DSH 0.2.2-rc.3**, Node.js **>=22.5**. First public release of this repository (`AcuteSZW/dsh-purge-pro`) and the first version of the npm package `dsh-purge-pro`. The notes below cover the plugin as a whole, then what this release contains and its known boundaries.
 
 ### 1: what it is
 
@@ -135,3 +136,4 @@
 - Patches whose needles no longer match show pending or skipped and do not rewrite files; optional packages that are not installed show skipped and do not block Apply.
 - When installed next to upstream `dsh-purge`, each works independently; do not apply both to the same host file at the same time.
 - The compensating transaction is not cross-resource atomic; see the POC file and SQLite consistency boundary above.
+- npm ships 1.0.1 as the first public version: 1.0.0 stayed locked behind a registry holding version and was never released; install 1.0.1.
